@@ -1,4 +1,3 @@
-```markdown
 # osu!mania Skin Editor
 
 Python 기반의 osu!mania 스킨 편집 프로그램입니다.  
@@ -39,7 +38,7 @@ GUI에서 skin.ini와 스킨 이미지를 편집하고, 변경사항을 미리�
    ```bash
    python -m pip --version
 
-```
+
 
 pip가 없다면:
 
