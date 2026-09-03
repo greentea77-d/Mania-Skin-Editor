@@ -1,4 +1,4 @@
-osu!mania Skin Editor
+# osu!mania Skin Editor 
 Python 기반의 osu!mania 스킨 편집 프로그램입니다.
 GUI에서 skin.ini와 스킨 이미지를 편집하고, 변경사항을 미리보기로 확인할 수 있습니다.
 ⚠️ Beta 현재 개발 중인 베타 버전입니다. 일부 기능에 버그가 있을 수 있습니다.
